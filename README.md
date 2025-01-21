@@ -10,6 +10,6 @@
 Si quieres descargar o usar el bot contactar a la propietaria del bot para ello Att:Sakura-OFC 
 
 ## `▢ EDITORA & PROPIETARIA DEL BOT` 
-<a href="https://github.com/Sakura-OFC"><img src="https://github.com/Sakura-OFC.png" width="250" height="250" alt="Sakura-OFC"/></a>
+<a href="https://github.com/SakuraOFC"><img src="https://github.com/SakuraOFC.png" width="250" height="250" alt="SakuraOFC"/></a>
   
 `Sakura-OFC The-MieBot-MD`
